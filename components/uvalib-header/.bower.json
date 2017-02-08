@@ -1,0 +1,19 @@
+{
+  "name": "uvalib-header",
+  "description": "UVA Library Page Header",
+  "main": "uvalib-header.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-header",
+  "version": "1.0.3",
+  "_release": "1.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.3",
+    "commit": "696145d239c0bc0ddae516d0fffb3dea00f29b28"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-header.git",
+  "_target": "*",
+  "_originalSource": "uvalib-components/uvalib-header"
+}

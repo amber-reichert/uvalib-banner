@@ -1,0 +1,18 @@
+{
+  "name": "uvalib-theme",
+  "description": "Common UVA Library styles",
+  "main": "uvalib-theme.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-theme",
+  "_release": "63eb52487d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "63eb52487dbc7db86bfe9d714db50e15b587cf39"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-theme.git",
+  "_target": "master",
+  "_originalSource": "uvalib-components/uvalib-theme"
+}

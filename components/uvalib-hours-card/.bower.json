@@ -1,0 +1,20 @@
+{
+  "name": "uvalib-hours-card",
+  "description": "Library hours information displayed in a card section",
+  "main": "uvalib-hours-card.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest",
+    "byutv-jsonp": "^1.2.0"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-hours-card",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "f5b1bc54a5c5a3918592e1ca56b9388a1f36a380"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-hours-card.git",
+  "_target": "*",
+  "_originalSource": "uvalib-components/uvalib-hours-card"
+}

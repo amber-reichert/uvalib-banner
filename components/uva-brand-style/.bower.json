@@ -1,0 +1,25 @@
+{
+  "name": "uva-brand-style",
+  "description": "Common UVA brand styles",
+  "main": "uva-theme.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.3.1"
+  },
+  "homepage": "https://github.com/uva-components/uva-brand-style",
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "4a01a839a69b454a6baa47d96bf994fd10ec510b"
+  },
+  "_source": "https://github.com/uva-components/uva-brand-style.git",
+  "_target": "*",
+  "_originalSource": "uva-components/uva-brand-style"
+}

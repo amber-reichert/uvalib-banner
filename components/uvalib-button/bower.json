@@ -1,0 +1,8 @@
+{
+  "name": "uvalib-button",
+  "description": "Standard button used for content",
+  "main": "uvalib-button.html",
+  "dependencies": {
+    "uvalib-elements":"uvalib-components/uvalib-elements#latest"
+  }
+}

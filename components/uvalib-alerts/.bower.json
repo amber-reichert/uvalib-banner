@@ -1,0 +1,13 @@
+{
+  "name": "uvalib-alerts",
+  "homepage": "https://github.com/uvalib-components/uvalib-alerts",
+  "_release": "79a98006a5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "79a98006a501829b7a1b0b3fdce546c66467286c"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-alerts.git",
+  "_target": "*",
+  "_originalSource": "uvalib-components/uvalib-alerts"
+}

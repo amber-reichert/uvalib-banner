@@ -1,0 +1,14 @@
+{
+  "name": "uva-footer",
+  "description": "A footer element for UVA web sites/apps",
+  "main": "uva-footer.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "uva-brand-style": "uva-components/uva-brand-style#latest",
+    "uva-centered-logo": "uva-components/uva-logos#latest"
+  },
+  "devDependencies": {
+    "uva-icon-link": "uva-components/uva-icon-link#master",
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest"
+  }
+}

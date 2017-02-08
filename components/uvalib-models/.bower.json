@@ -1,0 +1,19 @@
+{
+  "name": "uvalib-models",
+  "description": "data models used for the Library site",
+  "main": "uvalib-models.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-models",
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "c28a8009dd28e47c7658ff30c331b16e92e3d63b"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-models.git",
+  "_target": "*",
+  "_originalSource": "uvalib-components/uvalib-models"
+}

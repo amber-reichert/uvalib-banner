@@ -1,0 +1,19 @@
+{
+  "name": "uvalib-logos",
+  "description": "UVA Library logos",
+  "main": "uvalib-logo.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-logos",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "bc56af954bcc8c87b1cdf102f55dbc0f02964e1f"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-logos.git",
+  "_target": "*",
+  "_originalSource": "uvalib-components/uvalib-logos"
+}

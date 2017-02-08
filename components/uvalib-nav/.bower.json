@@ -1,0 +1,19 @@
+{
+  "name": "uvalib-nav",
+  "description": "Navigation content component",
+  "main": "uvalib-nav.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-nav",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "747b167a707241bd7467acdfd6dcfc1ca5e5ba2d"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-nav.git",
+  "_target": "*",
+  "_originalSource": "uvalib-components/uvalib-nav"
+}

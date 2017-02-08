@@ -1,0 +1,32 @@
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="lodash.html">
+
+<script>
+  /**
+   * @demo demo/index.html
+   * @uvaBehavior uvabehavior.layout
+   */
+  window.uvalibbehaviors = window.uvalibbehaviors || {};
+  uvalibbehaviors.helpers = {
+    _equals: function(t1, t2) {
+      return (t1 == t2);
+    },
+    _multiple: function(list) {
+      return list.length>1;
+    },
+    _or: function(t1, t2){
+      return (t1 || t2);
+    },
+    _and: function(t1,t2){
+      return (t1 && t2);
+    },
+    _random: function(list){
+      if(_.isArray(list))
+        if (list.length>1) return list[_.random(list.length-1)]
+        else if (list.length=1) return list[0];
+        else return null;
+      else return null;
+    }
+  };
+
+</script>

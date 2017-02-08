@@ -1,0 +1,9 @@
+{
+  "name": "uvalib-news-section",
+  "description": "This component handles the Library news display on the homepage",
+  "main": "uvalib-news-section.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#latest",
+    "byutv-jsonp": "^1.2.0"
+  }
+}

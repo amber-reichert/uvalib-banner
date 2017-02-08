@@ -1,0 +1,24 @@
+{
+  "name": "uva-centered-logo",
+  "description": "UVA centered logo",
+  "main": "uva-centered-logo.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/uva-components/uva-logos",
+  "_release": "84fc49bc48",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "84fc49bc48a7e8ef6e7c758195e1b032e1a1313a"
+  },
+  "_source": "https://github.com/uva-components/uva-logos.git",
+  "_target": "*",
+  "_originalSource": "uva-components/uva-logos"
+}
